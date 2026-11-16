@@ -1,4 +1,4 @@
-FROM gradle:8.11.1-jdk17
+FROM gradle:9.9.1-jdk17
 
 USER root
 ENV ANDROID_HOME=/opt/android-sdk \
